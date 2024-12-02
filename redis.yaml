@@ -10,7 +10,7 @@ metadata:
 
 spec:
  containers:
-   - name: redis-deploy
+   - name: redis
      image: redis  
 
      ports:
