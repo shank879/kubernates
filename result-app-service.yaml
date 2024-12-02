@@ -10,4 +10,4 @@ spec:
     nodePort: 30081
  selector: 
       app: voting-app
-      name: result
+      name: result-app-pod
